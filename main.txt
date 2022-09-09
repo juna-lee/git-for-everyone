@@ -1,1 +1,4 @@
 Title: Git for Everyone
+This is Working Area
+Confirm of Staging Area
+SubTitle: How to use git
